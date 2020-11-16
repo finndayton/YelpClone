@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 Here is the giphy of the working thing: https://gph.is/g/aXLVo1A
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com/).
 
 
 ## License
